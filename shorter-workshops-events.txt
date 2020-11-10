@@ -1,0 +1,76 @@
+Online workshop for those familiar with Git, May 18-20, 2020
+    SE       20
+    NO        2
+    FI        1
+    DE        2
+    Unknown   2
+    Total    27
+
+Collaborative Git (online), May 6, 2020
+    SE       25
+    NO        5
+    DK        4
+    FI        3
+    Total    37
+
+Karlstad, September 22-23, 2020
+    SE       11
+    CN        1
+    Total    12
+
+Introduction to Git (video), April 7-8, 2020
+    SE       19
+    FI        1
+    DE        2
+    Total    22
+
+Tampere, August 13, 2020
+    FI       16
+    Total    16
+
+Oslo/Bergen/Online hackathon, February 5, 2020
+    NO       30
+    Total    30
+
+Oslo, January 9, 2020
+    NO       21
+    Total    21
+
+Stockholm hackathon, November 6-7, 2019
+    NO        8
+    FI        3
+    DK        1
+    UK        1
+    EE        1
+    SE        4
+    Total    18
+
+Stockholm reproducibility workshop, September 9 and 12, 2019
+    SE       12
+    Total    12
+
+Oslo, April 1-5, 2019
+    NO       12
+    Total    12
+
+Copenhagen, March 05, 2019
+    Total   unknown
+
+Oslo, February 27, 2019
+    NO       18
+    Total    18
+
+Umeå, October 16, 2017
+    Total   unknown
+
+Manchester, September 8, 2017
+    Total   unknown
+
+Umeå, May 29, 2017
+    Total   unknown
+
+Stockholm, May 19, 2017
+    Total   unknown
+
+Oslo, April 6, 2017
+    Total   unknown
