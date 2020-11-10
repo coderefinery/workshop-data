@@ -15,6 +15,7 @@ DK      2
 EE      2
 UK      1
 -----  --
+
 shorter-workshops-events.txt
 -------  ---
 Total    246
@@ -28,6 +29,7 @@ CN         1
 UK         1
 EE         1
 -------  ---
+
 full-workshops.txt
 -----  ---
 Total  972
