@@ -1,0 +1,155 @@
+Online workshop, October 20-22 and 27-29, 2020
+    DK       11
+    FI       22
+    MA        1
+    NL       43
+    NO        4
+    SE       19
+    Total   100
+
+Online Mega-CodeRefinery workshop, May 25-27 and June 2-4, 2020
+    DK        2
+    FI       75
+    IS        1
+    NP        1
+    NO       16
+    SE        5
+    UK        1
+    US        1
+    Total   102
+
+Trondheim, February 25-27, 2020
+    NO       26
+    SE        1
+    PL        1
+    Total    28
+
+Espoo, December 10-12, 2019
+    FI       30
+    Total    30
+
+Lille, November 25 - December 5, 2019
+    FR       28
+    Total    28
+
+Stockholm, November 19-21, 2019
+    SE       28
+    Total    28
+
+Trondheim, October 22-24, 2019
+    NO       20
+    Total    20
+
+Aalborg, June 11-13, 2019
+    DK       18
+    US        1
+    UK        1
+    Total    20
+
+Oslo, June 3-5, 2019
+    NO       18
+    DK        1
+    SE        1
+    Total    20
+
+Helsinki, May 27-29, 2019
+    FI       26
+    SE        1
+    Total    27
+
+Gothenburg, May 21-23, 2019
+    SE       25
+    Total    25
+
+Tartu, April 2-4, 2019
+    EE       25
+    DE        1
+    Total    26
+
+Stockholm, March 25-27, 2019
+    SE       28
+    DE        2
+    Total    30
+
+Espoo, December 11-13, 2018
+    FI       31
+    DK        1
+    UK        1
+    Total    33
+
+Uppsala, December 3-5, 2018
+    SE       30
+    NO        1
+    Total    31
+
+Kiruna, November 21-23, 2018
+    SE       36
+    NO        1
+    CH        1
+    Total    38
+
+Reykjavik, August 21-23, 2018
+    IS       22
+    SE        3
+    CH        1
+    Total    26
+
+Oslo, June 12-14, 2018
+    NO       38
+    DE        1
+    SE        3
+    Total    42
+
+Espoo, May 29-31, 2018
+    FI       48
+    Total    48
+
+Lund, May 15-17, 2018
+    SE       30
+    DK        1
+    Total    31
+
+Turku, March 20-22, 2018
+    FI       22
+    SE        1
+    Total    23
+
+Trondheim, February 27 - March 1, 2018
+    NO       20
+    SE        1
+    DK        1
+    Total    22
+
+Espoo, December 12-14, 2017
+    FI       40
+    Total    40
+
+Linköping, November 7-9, 2017
+    SE       21
+    NO        1
+    Total    22
+
+Aarhus, October 24-26, 2017
+    DK       24
+    SE        3
+    Total    27
+
+Tromsø, June 19-21, 2017
+    BE        1
+    SE        1
+    NO       21
+    Total    23
+
+Copenhagen, May 9-11, 2017
+    SE        3
+    NL        1
+    DK       19
+    Total    23
+
+Stockholm, February 20-22, 2017
+    SE       34
+    Total    34
+
+Espoo, December 14-16, 2016
+    FI       25
+    Total    25
