@@ -1,4 +1,5 @@
 from collections import defaultdict
+from tabulate import tabulate
 
 for file_name in [
     "instructor-training.txt",
@@ -13,4 +14,7 @@ for file_name in [
                 how_many = line.split()[1]
                 if how_many != "unknown":
                     d[key] += int(how_many)
-    print(file_name, sorted(d.items(), key=lambda x: x[1], reverse=True))
+
+    print(file_name)
+    l = sorted(d.items(), key=lambda x: x[1], reverse=True)
+    print(tabulate(l))
