@@ -15,6 +15,6 @@ for file_name in [
                 if how_many != "unknown":
                     d[key] += int(how_many)
 
-    print(file_name)
+    print('\n\n## ' + file_name + '\n')
     l = sorted(d.items(), key=lambda x: x[1], reverse=True)
-    print(tabulate(l))
+    print(tabulate(l, tablefmt="github"))
