@@ -17,4 +17,4 @@ for file_name in [
 
     print('\n\n## ' + file_name + '\n')
     l = sorted(d.items(), key=lambda x: x[1], reverse=True)
-    print(tabulate(l, tablefmt="github"))
+    print(tabulate(l, headers=["country", "participants"], tablefmt="github"))
