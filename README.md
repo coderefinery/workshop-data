@@ -16,14 +16,14 @@ Data about CodeRefinery workshops/events.
 | UK    |  1 |
 
 
-## shorter-workshops-events.txt
+## other.txt
 
 |---------|-----|
-| Total   | 286 |
-| SE      | 112 |
-| NO      |  96 |
+| Total   | 354 |
+| NO      | 120 |
+| SE      | 115 |
+| FI      |  65 |
 | DK      |  45 |
-| FI      |  24 |
 | DE      |   4 |
 | Unknown |   2 |
 | CN      |   1 |

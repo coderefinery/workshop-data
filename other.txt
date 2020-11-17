@@ -1,3 +1,9 @@
+Python for Scientific Computing, Sep 14-23, 2020
+    FI       41
+    NO       24
+    SE        3
+    Total    68
+
 Online workshop for those familiar with Git, May 18-20, 2020
     SE       20
     NO        2

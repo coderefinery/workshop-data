@@ -3,7 +3,7 @@ from tabulate import tabulate
 
 for file_name in [
     "instructor-training.txt",
-    "shorter-workshops-events.txt",
+    "other.txt",
     "full-workshops.txt",
 ]:
     d = defaultdict(int)
