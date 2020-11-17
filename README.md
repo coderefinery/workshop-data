@@ -19,11 +19,11 @@ Data about CodeRefinery workshops/events.
 ## shorter-workshops-events.txt
 
 |---------|-----|
-| Total   | 246 |
+| Total   | 286 |
 | SE      | 112 |
 | NO      |  96 |
+| DK      |  45 |
 | FI      |  24 |
-| DK      |   5 |
 | DE      |   4 |
 | Unknown |   2 |
 | CN      |   1 |

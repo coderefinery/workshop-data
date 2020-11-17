@@ -53,8 +53,9 @@ Oslo, April 1-5, 2019
     NO       12
     Total    12
 
-Copenhagen, March 05, 2019
-    Total   unknown
+Copenhagen, March 5, 2019
+    DK       40
+    Total    40
 
 Oslo, February 27, 2019
     NO       18
