@@ -21,8 +21,8 @@ Data about CodeRefinery workshops/events.
 
 | country   |   participants |
 |-----------|----------------|
-| Total     |            354 |
-| NO        |            120 |
+| Total     |            364 |
+| NO        |            130 |
 | SE        |            115 |
 | FI        |             65 |
 | DK        |             45 |
