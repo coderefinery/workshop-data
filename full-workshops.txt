@@ -1,3 +1,19 @@
+Online workshop, November 17-19 and 24-26, 2020
+    NO       26
+    SE       27
+    FI        3
+    FR        4
+    PL        2
+    IN        1
+    DE        4
+    BE        1
+    BD        1
+    ES        3
+    CH        1
+    US        2
+    UK        2
+    Total    77
+
 Online workshop, October 20-22 and 27-29, 2020
     DK       11
     FI       22

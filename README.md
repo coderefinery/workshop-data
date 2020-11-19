@@ -37,20 +37,23 @@ Data about CodeRefinery workshops/events.
 
 | country   |   participants |
 |-----------|----------------|
-| Total     |            972 |
-| FI        |            319 |
-| SE        |            274 |
-| NO        |            166 |
+| Total     |           1049 |
+| FI        |            322 |
+| SE        |            301 |
+| NO        |            192 |
 | DK        |             78 |
 | NL        |             44 |
-| FR        |             28 |
+| FR        |             32 |
 | EE        |             25 |
 | IS        |             23 |
-| DE        |              4 |
-| UK        |              3 |
-| US        |              2 |
-| CH        |              2 |
+| DE        |              8 |
+| UK        |              5 |
+| US        |              4 |
+| PL        |              3 |
+| ES        |              3 |
+| CH        |              3 |
+| BE        |              2 |
+| IN        |              1 |
+| BD        |              1 |
 | MA        |              1 |
 | NP        |              1 |
-| PL        |              1 |
-| BE        |              1 |
