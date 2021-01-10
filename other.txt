@@ -1,3 +1,14 @@
+Introduction to Conda for (Data) Scientists, Jon 8, 2021
+    NO       39
+    FI        5
+    NL        2
+    SE        1
+    IN        1
+    Total    48
+
+Introduction to collaborative version control with Git, Dec 10-11. 2020
+    Total    15
+
 Python for Scientific Computing, Sep 14-23, 2020
     FI       41
     NO       24
